@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kalirajankarthick-cmd.github.io/CrudReact",
+  "homepage": "https://kalirajankarthick-cmd.github.io/quiz/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

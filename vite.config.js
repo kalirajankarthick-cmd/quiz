@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/CrudReact/'  // ← Important! Must match your repo name
+  base: '/quiz/'    // ← Important! Must match your repo name
 })

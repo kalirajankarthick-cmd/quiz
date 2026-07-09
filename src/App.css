@@ -1,26 +1,47 @@
-.online { background-color: lightgreen; } 
-.offline { background-color: lightgray; }
+.table{
+    align-items: center;
+    justify-content: center;
+    background-color: #f2f2f2;
+    color :black;
+    border-collapse: collapse;
+}
 .container{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 20px;  
+    height: 100vh;
+   
+}
 
-}
-.input-container{
-    display: flex;
-    flex-direction: row;
+.bmi{
     align-items: center;
-    justify-content: center;
-    padding: 20px;
+    justify-items: center;
+    display:flex;
+    flex-direction: column;
     gap: 10px;
 }
-.button-container{
-    display: flex;
-    flex-direction: row;
+
+.buttonWe{
+    gap :10px;
+display:flex;
+   
     align-items: center;
     justify-content: center;
-    padding: 20px;
-    gap: 10px;
+   
+    
+}
+ button{
+    padding:10px;
+    background-color: green;
+}
+*{
+    background: wheat;
+}
+#text{
+    width:50%;
+    margin: 0 10px 0 250px;
+    padding: 10px;
+    border-radius: 5px;
+    align-items: center; justify-content:center; display:flex;
 }

@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "question": "What is ReactJS?",
+    "options": [
+      {"id": 1, "value": "A JavaScript library for building user interfaces"},
+      {"id": 2, "value": "A programming language"},
+      {"id": 3, "value": "A database management system"},
+      {"id": 4, "value": "An operating system"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 2,
+    "question": "What is the capital of France?",
+    "options": [
+      {"id": 1, "value": "Paris"},
+      {"id": 2, "value": "London"},
+      {"id": 3, "value": "Berlin"},
+      {"id": 4, "value": "Madrid"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 3,
+    "question": "Which hook is used for side effects in React?",
+    "options": [
+      {"id": 1, "value": "useEffect"},
+      {"id": 2, "value": "useState"},
+      {"id": 3, "value": "useContext"},
+      {"id": 4, "value": "useReducer"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 4,
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      {"id": 1, "value": "Jupiter"},
+      {"id": 2, "value": "Saturn"},
+      {"id": 3, "value": "Neptune"},
+      {"id": 4, "value": "Earth"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 5,
+    "question": "Which programming language is known as the 'mother of all languages'?",
+    "options": [
+      {"id": 1, "value": "C"},
+      {"id": 2, "value": "Python"},
+      {"id": 3, "value": "Java"},
+      {"id": 4, "value": "JavaScript"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 6,
+    "question": "What does CSS stand for?",
+    "options": [
+      {"id": 1, "value": "Cascading Style Sheets"},
+      {"id": 2, "value": "Computer Style Sheets"},
+      {"id": 3, "value": "Creative Style System"},
+      {"id": 4, "value": "Cascading System Styles"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 7,
+    "question": "Which company developed ReactJS?",
+    "options": [
+      {"id": 1, "value": "Facebook"},
+      {"id": 2, "value": "Google"},
+      {"id": 3, "value": "Microsoft"},
+      {"id": 4, "value": "Amazon"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 8,
+    "question": "What is the chemical symbol for water?",
+    "options": [
+      {"id": 1, "value": "H2O"},
+      {"id": 2, "value": "CO2"},
+      {"id": 3, "value": "NaCl"},
+      {"id": 4, "value": "HCl"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 9,
+    "question": "Which data structure uses LIFO (Last In First Out) principle?",
+    "options": [
+      {"id": 1, "value": "Stack"},
+      {"id": 2, "value": "Queue"},
+      {"id": 3, "value": "Array"},
+      {"id": 4, "value": "Linked List"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 10,
+    "question": "What is the speed of light approximately?",
+    "options": [
+      {"id": 1, "value": "3 × 10⁸ m/s"},
+      {"id": 2, "value": "3 × 10⁶ m/s"},
+      {"id": 3, "value": "3 × 10¹⁰ m/s"},
+      {"id": 4, "value": "3 × 10⁴ m/s"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 11,
+    "question": "Which keyword is used to create a constant variable in JavaScript?",
+    "options": [
+      {"id": 1, "value": "const"},
+      {"id": 2, "value": "let"},
+      {"id": 3, "value": "var"},
+      {"id": 4, "value": "static"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 12,
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      {"id": 1, "value": "Diamond"},
+      {"id": 2, "value": "Gold"},
+      {"id": 3, "value": "Iron"},
+      {"id": 4, "value": "Platinum"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 13,
+    "question": "Which HTTP method is used to retrieve data from a server?",
+    "options": [
+      {"id": 1, "value": "GET"},
+      {"id": 2, "value": "POST"},
+      {"id": 3, "value": "PUT"},
+      {"id": 4, "value": "DELETE"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 14,
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      {"id": 1, "value": "Pacific Ocean"},
+      {"id": 2, "value": "Atlantic Ocean"},
+      {"id": 3, "value": "Indian Ocean"},
+      {"id": 4, "value": "Arctic Ocean"}
+    ],
+    "correct": 0
+  },
+  {
+    "id": 15,
+    "question": "Which React hook is used for managing state?",
+    "options": [
+      {"id": 1, "value": "useState"},
+      {"id": 2, "value": "useEffect"},
+      {"id": 3, "value": "useContext"},
+      {"id": 4, "value": "useReducer"}
+    ],
+    "correct": 0
+  }
+]
