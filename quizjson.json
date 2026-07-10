@@ -1,167 +1,152 @@
-[
-  {
-    "id": 1,
-    "question": "What is ReactJS?",
-    "options": [
-      {"id": 1, "value": "A JavaScript library for building user interfaces"},
-      {"id": 2, "value": "A programming language"},
-      {"id": 3, "value": "A database management system"},
-      {"id": 4, "value": "An operating system"}
-    ],
-    "correct": 0
+{
+  "metadata": {
+    "title": "JSON Questions and Answers",
+    "totalQuestions": 20,
+    "categories": ["Basics", "Data Types", "Syntax", "Nested Structures", "Error Detection", "Methods"],
+    "difficulty": "Beginner to Advanced",
+    "createdDate": "2026-07-09"
   },
-  {
-    "id": 2,
-    "question": "What is the capital of France?",
-    "options": [
-      {"id": 1, "value": "Paris"},
-      {"id": 2, "value": "London"},
-      {"id": 3, "value": "Berlin"},
-      {"id": 4, "value": "Madrid"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 3,
-    "question": "Which hook is used for side effects in React?",
-    "options": [
-      {"id": 1, "value": "useEffect"},
-      {"id": 2, "value": "useState"},
-      {"id": 3, "value": "useContext"},
-      {"id": 4, "value": "useReducer"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 4,
-    "question": "What is the largest planet in our solar system?",
-    "options": [
-      {"id": 1, "value": "Jupiter"},
-      {"id": 2, "value": "Saturn"},
-      {"id": 3, "value": "Neptune"},
-      {"id": 4, "value": "Earth"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 5,
-    "question": "Which programming language is known as the 'mother of all languages'?",
-    "options": [
-      {"id": 1, "value": "C"},
-      {"id": 2, "value": "Python"},
-      {"id": 3, "value": "Java"},
-      {"id": 4, "value": "JavaScript"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 6,
-    "question": "What does CSS stand for?",
-    "options": [
-      {"id": 1, "value": "Cascading Style Sheets"},
-      {"id": 2, "value": "Computer Style Sheets"},
-      {"id": 3, "value": "Creative Style System"},
-      {"id": 4, "value": "Cascading System Styles"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 7,
-    "question": "Which company developed ReactJS?",
-    "options": [
-      {"id": 1, "value": "Facebook"},
-      {"id": 2, "value": "Google"},
-      {"id": 3, "value": "Microsoft"},
-      {"id": 4, "value": "Amazon"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 8,
-    "question": "What is the chemical symbol for water?",
-    "options": [
-      {"id": 1, "value": "H2O"},
-      {"id": 2, "value": "CO2"},
-      {"id": 3, "value": "NaCl"},
-      {"id": 4, "value": "HCl"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 9,
-    "question": "Which data structure uses LIFO (Last In First Out) principle?",
-    "options": [
-      {"id": 1, "value": "Stack"},
-      {"id": 2, "value": "Queue"},
-      {"id": 3, "value": "Array"},
-      {"id": 4, "value": "Linked List"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 10,
-    "question": "What is the speed of light approximately?",
-    "options": [
-      {"id": 1, "value": "3 × 10⁸ m/s"},
-      {"id": 2, "value": "3 × 10⁶ m/s"},
-      {"id": 3, "value": "3 × 10¹⁰ m/s"},
-      {"id": 4, "value": "3 × 10⁴ m/s"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 11,
-    "question": "Which keyword is used to create a constant variable in JavaScript?",
-    "options": [
-      {"id": 1, "value": "const"},
-      {"id": 2, "value": "let"},
-      {"id": 3, "value": "var"},
-      {"id": 4, "value": "static"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 12,
-    "question": "What is the hardest natural substance on Earth?",
-    "options": [
-      {"id": 1, "value": "Diamond"},
-      {"id": 2, "value": "Gold"},
-      {"id": 3, "value": "Iron"},
-      {"id": 4, "value": "Platinum"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 13,
-    "question": "Which HTTP method is used to retrieve data from a server?",
-    "options": [
-      {"id": 1, "value": "GET"},
-      {"id": 2, "value": "POST"},
-      {"id": 3, "value": "PUT"},
-      {"id": 4, "value": "DELETE"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 14,
-    "question": "What is the largest ocean on Earth?",
-    "options": [
-      {"id": 1, "value": "Pacific Ocean"},
-      {"id": 2, "value": "Atlantic Ocean"},
-      {"id": 3, "value": "Indian Ocean"},
-      {"id": 4, "value": "Arctic Ocean"}
-    ],
-    "correct": 0
-  },
-  {
-    "id": 15,
-    "question": "Which React hook is used for managing state?",
-    "options": [
-      {"id": 1, "value": "useState"},
-      {"id": 2, "value": "useEffect"},
-      {"id": 3, "value": "useContext"},
-      {"id": 4, "value": "useReducer"}
-    ],
-    "correct": 0
-  }
-]
+  "questions": [
+    {
+      "id": 1,
+      "category": "Basics",
+      "question": "What does JSON stand for?",
+      "answer": "JavaScript Object Notation"
+    },
+    {
+      "id": 2,
+      "category": "Basics",
+      "question": "Is JSON a programming language?",
+      "answer": "No, it is a lightweight data-interchange format"
+    },
+    {
+      "id": 3,
+      "category": "Data Types",
+      "question": "What data types are supported in JSON?",
+      "answer": "String, Number, Boolean, Null, Object, and Array"
+    },
+    {
+      "id": 4,
+      "category": "Data Types",
+      "question": "Does JSON support a Date data type?",
+      "answer": "No, dates are stored as strings"
+    },
+    {
+      "id": 5,
+      "category": "Syntax",
+      "question": "Can JSON keys be written without double quotes?",
+      "answer": "No, keys must be in double quotes"
+    },
+    {
+      "id": 6,
+      "category": "Syntax",
+      "question": "Can you use single quotes for strings in JSON?",
+      "answer": "No, only double quotes are allowed"
+    },
+    {
+      "id": 7,
+      "category": "Syntax",
+      "question": "Are trailing commas allowed in JSON?",
+      "answer": "No, trailing commas are not allowed"
+    },
+    {
+      "id": 8,
+      "category": "Syntax",
+      "question": "Can JSON keys be empty strings?",
+      "answer": "Yes, example: { \"\": \"empty key\" } is valid"
+    },
+    {
+      "id": 9,
+      "category": "Syntax",
+      "question": "Can you have duplicate keys in a JSON object?",
+      "answer": "Yes, it is valid JSON, but most parsers use the last occurrence"
+    },
+    {
+      "id": 10,
+      "category": "Syntax",
+      "question": "Can JSON include comments?",
+      "answer": "No, JSON does not support comments"
+    },
+    {
+      "id": 11,
+      "category": "Nested Structures",
+      "question": "How do you represent an empty object in JSON?",
+      "answer": "{}"
+    },
+    {
+      "id": 12,
+      "category": "Nested Structures",
+      "question": "How do you represent an empty array in JSON?",
+      "answer": "[]"
+    },
+    {
+      "id": 13,
+      "category": "Nested Structures",
+      "question": "Write a JSON object for a person with name, age, and address (street, city).",
+      "answer": {
+        "name": "John Doe",
+        "age": 30,
+        "address": {
+          "street": "123 Main Street",
+          "city": "New York"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "category": "Nested Structures",
+      "question": "Write a JSON array containing three different data types.",
+      "answer": ["Hello", 42, true]
+    },
+    {
+      "id": 15,
+      "category": "Nested Structures",
+      "question": "Write a JSON object for a company with employees (array of objects).",
+      "answer": {
+        "company": "TechCorp",
+        "employees": [
+          {
+            "id": 1,
+            "name": "Alice",
+            "role": "Developer"
+          },
+          {
+            "id": 2,
+            "name": "Bob",
+            "role": "Designer"
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "category": "Error Detection",
+      "question": "What is wrong with this JSON? { name: 'John', age: 25 }",
+      "answer": "Keys are not in double quotes and single quotes are used for strings"
+    },
+    {
+      "id": 17,
+      "category": "Error Detection",
+      "question": "What is wrong with this JSON? { \"price\": 1,000 }",
+      "answer": "Numbers cannot contain commas; it should be 1000"
+    },
+    {
+      "id": 18,
+      "category": "Methods",
+      "question": "How do you convert a JSON string to a JavaScript object?",
+      "answer": "Using JSON.parse()"
+    },
+    {
+      "id": 19,
+      "category": "Methods",
+      "question": "How do you convert a JavaScript object to a JSON string?",
+      "answer": "Using JSON.stringify()"
+    },
+    {
+      "id": 20,
+      "category": "General",
+      "question": "What is the MIME type for JSON?",
+      "answer": "application/json"
+    }
+  ]
+}

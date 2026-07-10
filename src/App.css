@@ -1,47 +1,14 @@
-.table{
-    align-items: center;
-    justify-content: center;
-    background-color: #f2f2f2;
-    color :black;
-    border-collapse: collapse;
+.Yo{
+  background-color: white;
+margin: 0 150px 0 150px;
+border-radius: 10px;
 }
-.container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-   
-}
-
-.bmi{
-    align-items: center;
-    justify-items: center;
-    display:flex;
-    flex-direction: column;
-    gap: 10px;
-}
-
-.buttonWe{
-    gap :10px;
-display:flex;
-   
-    align-items: center;
-    justify-content: center;
-   
-    
-}
- button{
-    padding:10px;
-    background-color: green;
-}
-*{
-    background: wheat;
-}
-#text{
-    width:50%;
-    margin: 0 10px 0 250px;
-    padding: 10px;
-    border-radius: 5px;
-    align-items: center; justify-content:center; display:flex;
+.Yoo{background-color: grey;}
+.Yooo{
+  gap: 100px;
+  margin:10px;
+  
+  width:100%;
+  align-items: center;
+  justify-content: center;
 }

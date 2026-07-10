@@ -1,7 +1,9 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import Quiz from '/quiz'
+//import Crud from './crud.jsx'
+import Ques from './ques.jsx'
+//import Quiz from '/quiz'
 //import Ques from '/ques'
 //import Bmi from './bmi';
 //import Password from './Password.jsx'
@@ -11,7 +13,7 @@ import Quiz from '/quiz'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-  <Quiz/>
+  <Ques/>
 
   </StrictMode>
 )
